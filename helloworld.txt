@@ -1,0 +1,5 @@
+line 1
+line 2 
+A.B*2
+CTRL +O # to save
+CTRL +x # to exit
